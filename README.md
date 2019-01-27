@@ -9,7 +9,7 @@
 Script
 ![alt text](https://github.com/Kynantio/Media-Query/blob/master/ScriptDekstop.PNG)
 ![alt text](https://github.com/Kynantio/Media-Query/blob/master/ScriptMobile.PNG)
-![alt text](https://github.com/Kynantio/Media-Query/blob/master/TemplateTablet.PNG)
+![alt text](https://github.com/Kynantio/Media-Query/blob/master/ScriptTablet.PNG)
 
 Template
 ![alt text](https://github.com/Kynantio/Media-Query/blob/master/TemplateDekstop.PNG)
